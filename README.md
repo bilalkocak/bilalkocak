@@ -10,3 +10,4 @@
 I am working as a Software Developer in Turkey.
 
 - 🏗 I work with React/Vue mostly.
+- 🏹 Learning Go programing.
