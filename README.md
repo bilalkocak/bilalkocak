@@ -1,8 +1,7 @@
 <h3 align="center">👋🏽 hey, I'm Bilal.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/bilalkocak04">Twitter</a> •
-  <a href="https://www.linkedin.com/in/bilalkocak/">Linkedin</a>
+  <a href="https://bilalkocak.com">Personal Website</a>
 </p>
 
 ---
